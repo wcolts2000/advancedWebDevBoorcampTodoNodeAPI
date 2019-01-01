@@ -1,0 +1,28 @@
+{
+  "name": "advancedwebdevboorcamptodonodeapi",
+  "version": "1.0.0",
+  "description": "todo list api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wcolts2000/advancedWebDevBoorcampTodoNodeAPI.git"
+  },
+  "keywords": [
+    "todo",
+    "lisst",
+    "api"
+  ],
+  "author": "sean pheneger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wcolts2000/advancedWebDevBoorcampTodoNodeAPI/issues"
+  },
+  "homepage": "https://github.com/wcolts2000/advancedWebDevBoorcampTodoNodeAPI#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.1"
+  }
+}
