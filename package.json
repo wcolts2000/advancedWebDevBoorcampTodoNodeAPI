@@ -23,6 +23,6 @@
   "homepage": "https://github.com/wcolts2000/advancedWebDevBoorcampTodoNodeAPI#readme",
   "dependencies": {
     "express": "^4.19.2",
-    "mongoose": "^5.13.20"
+    "mongoose": "^8.8.3"
   }
 }
