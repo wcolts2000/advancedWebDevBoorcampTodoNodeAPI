@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/wcolts2000/advancedWebDevBoorcampTodoNodeAPI#readme",
   "dependencies": {
-    "express": "^4.21.2",
+    "express": "^4.22.1",
     "mongoose": "^8.9.5"
   }
 }
